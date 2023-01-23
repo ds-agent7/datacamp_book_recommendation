@@ -1,4 +1,4 @@
-# Datacomp project: book_recommendation by text similarity
+# Datacomp project: book recommendation system by text similarity
 
 data manipulation, text, NLP, tokenize, bag of words, corpora
 
